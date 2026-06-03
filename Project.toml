@@ -1,10 +1,10 @@
-name = "julik"
-uuid = "b6b87ecf-fcf5-4ee8-b3f4-58fad717f3eb"
+name = "juleek"
+uuid = ""
 version = "0.1.0"
-authors = ["Suren Poghosyan <suren.poghosian.18@gmail.com>"]
+authors = []
 
 [deps]
-DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DataFrames = ""
 
 [compat]
 DataFrames = "1.8.1"
